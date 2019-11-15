@@ -1,2 +1,6 @@
 Hola clase, escriban debajo de esta linea.
+<<<<<<< HEAD
 La mini lap esta muerta R.I.P.
+=======
+ADDDD
+>>>>>>> 84057b3f5652c184f1171f36794827695ef1c7ba
