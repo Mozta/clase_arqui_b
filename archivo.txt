@@ -1,2 +1,15 @@
 Hola clase, escriban debajo de esta linea.
+<<<<<<< HEAD
 Hola Mundo , este es mi primer Git
+=======
+<<<<<<< HEAD
+Hola me llamo Roberto
+
+=======
+<<<<<<< HEAD
+La mini lap esta muerta R.I.P.
+=======
+ADDDD
+>>>>>>> 84057b3f5652c184f1171f36794827695ef1c7ba
+>>>>>>> eb5236ce0bc533bb7add13f0494aa4936df1ec35
+>>>>>>> ec8624dc7f8bbacd0864bdc4427efcb466c447c0
